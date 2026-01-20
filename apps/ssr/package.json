@@ -10,7 +10,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@fastify/middie": "9.0.3",
+    "@fastify/middie": "9.1.0",
     "@fastify/request-context": "6.2.0",
     "@follow/tracker": "workspace:*",
     "@fontsource/sn-pro": "5.2.5",
